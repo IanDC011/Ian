@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **iandecastro1124@gmail.com**
 
+- 📄 Know about my experiences [adriandc-cv.tiiny.site](adriandc-cv.tiiny.site)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ian-decastro-a2a4b1276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian-decastro-a2a4b1276/" height="30" width="40" /></a>
