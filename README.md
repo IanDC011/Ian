@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Adrian De Castro
+# Hi, I'm Adrian De Castro
 
 💻 Web Developer | 🎨 UI Designer | 🔍 SEO-Focused
 
 ---
 
-## 🚀 About Me
+## About Me
 I am a **Bachelor of Science in Computer Science graduate** with hands-on experience in building responsive websites and web applications.
 
 I focus on creating:
@@ -15,12 +15,12 @@ I focus on creating:
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 🔗 [https://adriandcwebportfolio.gt.tc](https://adriandcwebportfolio.gt.tc/)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 - HTML
@@ -39,18 +39,18 @@ I focus on creating:
 
 ---
 
-## 📌 What I’m Currently Working On
+## What I’m Currently Working On
 - Improving my full-stack development skills  
 - Building real-world web applications  
 - Enhancing UI/UX and performance optimization  
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 📧 Email: iandecastro1124@gmail.com  
 💻 GitHub: https://github.com/IanDC011  
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 I enjoy turning ideas into real, functional websites that people can actually use.
